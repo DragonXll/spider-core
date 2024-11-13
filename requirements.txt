@@ -1,0 +1,14 @@
+pydantic==1.10.6
+sqlalchemy==1.4.40
+pymysql==1.0.2
+schedule
+loguru==0.6.0
+requests==2.28.1
+opencv-python==4.6.0.66
+bs4
+toollib
+requests_toolbelt
+ddddocr==1.4.7
+PyExecJS
+apscheduler
+pymysql
